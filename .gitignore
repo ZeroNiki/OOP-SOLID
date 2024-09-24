@@ -1,0 +1,29 @@
+# Pycache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# ENV
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.env
+
+# PIP
+pip-log.txt
+pip-delete-this-directory.txt
+
+# DB
+*.log
+*.sqlite3
+*.db
+
+# IDE
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
